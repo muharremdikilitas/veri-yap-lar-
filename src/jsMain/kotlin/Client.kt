@@ -11,6 +11,7 @@ fun main() {
 
     val firstname = "Kerem"
     val lastName = "Aktürk"
+    val email = "Aktürk"
 
 
     //operator overloading
